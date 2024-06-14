@@ -1,0 +1,4 @@
+[
+    {"Text": "NEGRO", "Value": "BLACK", "IsSelected": false, "Group":"Colors", "Class": "btn btn-dark btn-item", "Type": "COLOR"},
+    {"Text": "ROJO", "Value": "RED", "IsSelected": false, "Group":"Colors", "Class": "btn btn-danger btn-item", "Type": "COLOR"}
+]

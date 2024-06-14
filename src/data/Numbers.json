@@ -1,0 +1,4 @@
+[
+    {"Text": "PAR", "Value": "1", "IsSelected": false, "Group":"Numbers", "Class": "btn btn-light btn-item", "Type": "NUMBER"},
+    {"Text": "IMPAR", "Value": "2", "IsSelected": false, "Group":"Numbers", "Class": "btn btn-light btn-item", "Type": "NUMBER"}
+  ]
