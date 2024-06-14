@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.3",
+    "bootstrap-vue": "^2.23.1",
+    "save": "^2.9.0",
+    "vue-axios": "^3.5.2"
+  }
+}
